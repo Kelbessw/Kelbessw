@@ -1,6 +1,6 @@
 ### Hi there 👋
+I'm an Wondu full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I am learing everyday! 
 
-<!--
 **Kelbessw/Kelbessw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
